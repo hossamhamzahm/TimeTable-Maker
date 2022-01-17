@@ -1,6 +1,7 @@
 # TimeTable-Maker
 
 *TimeTable-Maker* is a console program that uses backtracking algorithm to generate all possible timetables for the specified courses. 
+<br>
 On startup, the program reads a large CSV file that contains the university schedule then it asks the user to enter the wanted courses. Finally, it starts backtracking to generate all possible timetables from the entered courses.
 
 
