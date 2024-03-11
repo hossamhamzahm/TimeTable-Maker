@@ -6,4 +6,4 @@ On startup, the program reads a large CSV file that contains the university sche
 
 
 
->**Disclaimer** This program was written before but with very bad complexity O(N^6) where n is the number of courses. I refactored the algorithm to use backtracking instead of many nested for loops which results in a better complexity O(!N). 
+>**Disclaimer** This program was written before but with very bad complexity O(N^6) where n is the number of courses. I refactored the algorithm to use backtracking instead of many nested for loops which results in a better complexity O(!6). 
